@@ -1,0 +1,29 @@
+body
+{
+	text-align: center;
+    background-color:rgb(167, 175, 170) ;
+}
+span
+{
+	font-size: 12px;
+	color: lightskyblue;
+}
+canvas
+{
+	background: white;
+	border-radius: 20px;
+    border-style: groove;
+    border-width: 10px;
+    border-color: aqua;
+}
+
+h3{
+    background-color: white;
+    color: lightskyblue;
+    width: 400px;
+}
+
+.btn{
+    color: lightskyblue;
+    background-color: white;
+}
